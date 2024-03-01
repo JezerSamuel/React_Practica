@@ -1,42 +1,42 @@
 const vehicles = [
     {
-      name: "Car",
-      description: "has four wheels",
+      name: "Blasphemous",
+      description: "Requiem Aeternam",
       image:
-        "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d35eacaf1176b0008974b54%2F0x0.jpg%3FcropX1%3D790%26cropX2%3D5350%26cropY1%3D784%26cropY2%3D3349",
+        "https://www.team17.com/wp-content/uploads/2020/08/Blasphemous_Updated-Art-Hero-Art-3840x2160-wecompress.com_-1800x1013.jpg",
     },
     {
-      name: "Motorcycle",
-      description: "goes fast",
+      name: "Hollow Knight",
+      description: "...",
       image:
-        "https://content2.kawasaki.com/ContentStorage/KMC/Products/8798/8c85b065-f4e9-4ee6-966f-2b7993daff08.png?w=767",
+        "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51",
     },
     {
-      name: "Bycicle",
-      description: "it's good for the environment",
+      name: "The king of Fighters Xlll",
+      description: "El pinaculo de los juegos de pelea 2D",
       image:
-        "https://media.wired.com/photos/63e569c9de59d567d5d7c66d/master/w_2240,c_limit/Ride1Up-Cafe-Cruiser-Featured-Gear.jpg",
+        "https://tierragamer.com/wp-content/uploads/2023/08/The-King-of-Fighters-XIII.webp",
     },
     {
-      name: "Plane",
-      description: "Tickets are expensive",
-      image: "https://www.rd.com/wp-content/uploads/2020/01/GettyImages-1131335393-e1650030686687.jpg",
+      name: "Plants vs Zombies",
+      description: "Un clasico",
+      image: "https://media.vandal.net/i/1280x720/11-2017/20171121113442_1.jpg",
     },
     {
-      name: "Ship",
-      description: "It is heavy",
-      image: "https://www.marineinsight.com/wp-content/uploads/2019/08/Cruise-ships-1.png",
+      name: "Geometry Dash",
+      description: "Rob Tob",
+      image: "https://www.eltiempo.com/files/article_main_1200/uploads/2023/12/20/658352233ffc9.png",
     },
     {
-      name: "Spaceship",
-      description: "Goes to space",
+      name: "Plague inc",
+      description: "Puedes infectar al mundo?",
       image:
-        "https://img.freepik.com/premium-photo/futuristic-scifi-battle-spaceship-hover-ocean-alien-planet-digital-painting_379823-2914.jpg?w=2000",
+        "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/es_LA/games/switch/p/plague-inc-evolved-switch/hero",
     },
     {
-        name: "Tsuru Tuneado",
-        description: "Esta Tuneado",
-        image: "https://pbs.twimg.com/media/DMhn0TcUEAANIp5.jpg"
+        name: "Castle Crashers",
+        description: "Esta Chido",
+        image: "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000016301/1664a22b13e4fa07a3b8b89126e8f63848c6031d568a00769d1d7b312c695a63"
     }
   ];
   
